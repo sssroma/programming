@@ -1,2 +1,2 @@
 # programming
-lectures &amp; labs
+lectures &amp; labs &amp; posting projects
